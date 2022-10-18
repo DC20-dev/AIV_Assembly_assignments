@@ -1,3 +1,3 @@
 # AIV_Assembly_assignments
 
-This repo contains the assignments received during my journey through the last year at AIV
+This repo contains the assignments completed during my journey through the last year at AIV
